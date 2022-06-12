@@ -8,4 +8,4 @@ const getUserChoice = userInput => {
     }
 };
 
-console.log(getUserChoice("Rock"));
+console.log(getUserChoice("rock"));
